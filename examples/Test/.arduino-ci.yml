@@ -1,0 +1,7 @@
+
+compile:
+  libraries: https://github.com/PaulStoffregen/AltSoftSerial.git
+  platforms:
+    - uno
+    - leonardo
+    - mega2560
