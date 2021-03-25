@@ -3,7 +3,6 @@ compile:
   libraries:
     - AltSoftSerial
     - SensorModbusMaster
-    - https://github.com/PaulStoffregen/AltSoftSerial.git
   platforms:
     - uno
     - leonardo
