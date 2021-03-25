@@ -1,6 +1,9 @@
 
 compile:
-  libraries: https://github.com/PaulStoffregen/AltSoftSerial.git
+  libraries:
+    - AltSoftSerial
+    - SensorModbusMaster
+    - https://github.com/PaulStoffregen/AltSoftSerial.git
   platforms:
     - uno
     - leonardo
